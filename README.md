@@ -1,0 +1,1 @@
+# yapay_zeka_sistemleri_odev
