@@ -1,4 +1,4 @@
-# Genetik Algoritma ile Fonksiyon Optimizasyonu
+# ÖDEV 1 - Genetik Algoritma ile Fonksiyon Optimizasyonu
 
 Bu proje, belirli kısıtlamalar altında matematiksel bir fonksiyonun maksimum değerini bulmak için Python ile yazılmış basit bir **Genetik Algoritma (Genetic Algorithm)** uygulamasıdır. Algoritma, popülasyon tabanlı bir yaklaşım kullanarak iterasyonlar boyunca en iyi sonucu ($x_1$ ve $x_2$ değerlerini) optimize etmeye çalışır.
 
@@ -33,7 +33,7 @@ Yazılım Gereksinimleri :
 
 Kütüphaneyi yüklemek için terminalde şu komutu çalıştırın:
 
-## Karınca Kolonisi Algoritması ile İstanbul Gezi Rotası Optimizasyonu
+#  ÖDEV 2 -  Karınca Kolonisi Algoritması ile İstanbul Gezi Rotası Optimizasyonu
 Bu projede, İstanbul’da bulunan 15 turistik ve tarihi mekanın tek bir gün içinde en kısa mesafe ile gezilebilmesi amaçlanmıştır. Günlük hayatta bir tur şirketinin ya da bireysel bir gezginin karşılaşabileceği “Hangi sırayla gezmeliyim?” sorusu, bu projede Karınca Kolonisi Algoritması (Ant Colony Optimization – ACO) kullanılarak çözülmüştür.
 Projede gerçek mekan isimleri kullanılmış, bu mekanların koordinatları Google Maps Geocoding API üzerinden otomatik olarak alınmış ve aralarındaki mesafeler hesaplanarak en uygun gezi rotası belirlenmiştir.
 
