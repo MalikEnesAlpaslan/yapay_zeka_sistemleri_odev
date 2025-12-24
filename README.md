@@ -25,7 +25,11 @@ Eğer değişkenler bu kısıtlamaların dışına çıkarsa, fonksiyon ceza pua
 
 ## 🛠️ Gereksinimler
 
-Projeyi çalıştırmak için Python'un yüklü olması ve grafik çizimi için `matplotlib` kütüphanesinin kurulu olması gerekmektedir.
+Bu projeyi çalıştırabilmek için aşağıdaki yazılım ve ortam gereksinimlerinin sağlanması gerekmektedir:
+Yazılım Gereksinimleri : 
+* Python 3.8 veya üzeri
+* Kod, Python’un temel veri yapıları ve standart kütüphaneleri kullanılarak yazılmıştır.
+* Matplotlib : Genetik algoritmanın iterasyonlar boyunca elde ettiği en iyi sonuçların görselleştirilmesi için kullanılır.
 
 Kütüphaneyi yüklemek için terminalde şu komutu çalıştırın:
 
